@@ -1,3 +1,3 @@
-Repository of data.arc hashes converted to proper names.
+Repository of cracked data.arc hashes for use as file paths.
 
-Collaboration between Ploaj, Jam1garner, TheAlexBarney, RandomTBush, ih8ih8sn0w, and myself.
+Collaboration between Ploaj, Jam1garner, TheAlexBarney, RandomTBush, ih8ih8sn0w, and DemonSlayerX8.

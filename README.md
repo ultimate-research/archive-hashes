@@ -1,12 +1,14 @@
-Repository of cracked data.arc hashes for use as file paths.
+# archive-hashes
 
-### Files included
+archive-hashes is a repository for cracked filesystem hashes from Super Smash Bros. Ultimate's `data.arc` file.
 
-* 'Hashes' - the hashes for file extensions and path segments
-* 'Hashes_FullPath' - the hashes for full paths
-* 'Hashes_all' - All archive hashes
-* 'concat_hashes.py' - A python script for generating Hashes_all from the other two hash files
+## Overview
 
-### Credits
+- `Hashes` - Hash labels for files, extensions, directories, and paths
+- `Hashes_FullPath` - Hash labels for full paths to files
+- `Hashes_all` - Hash labels from `Hashes` and `Hashes_FullPath`
+- `concat_hashes.py` - A Python script for generating `Hashes_all` from `Hashes` and `Hashes_FullPath`
 
-Collaboration between Ploaj, Jam1garner, TheAlexBarney, RandomTBush, ih8ih8sn0w, and DemonSlayerX8.
+## Credits
+
+Collaboration between Ploaj, jam1garner, Thealexbarney, RandomTBush, ih8ih8sn0w, and Demonslayerx8.
